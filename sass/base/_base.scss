@@ -1,0 +1,18 @@
+/* to start clean - reset all browser*/
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+/* set 1 rem = 10px easier to work*/
+html {
+    /* font-size: 10px; (10/16)*/
+    font-size: 62.5%;
+}
+
+body {
+    box-sizing: border-box;
+}
