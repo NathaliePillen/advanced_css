@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/NathaliePillen/advanced_css#readme",
   "devDependencies": {
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   }
 }
